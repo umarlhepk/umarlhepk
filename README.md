@@ -47,10 +47,7 @@ My journey in IT Support and Problem-solving has led me to develop a passion for
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          |  SOC Automation Lab|
 | Network Traffic Monitoring and Attack Detection |  SOC Automation Lab|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 
 ## Tools
 ### OS

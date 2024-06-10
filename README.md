@@ -8,6 +8,15 @@ My journey in IT Support and Problem-solving has led me to develop a passion for
 
 ## Certifications
 <div>
+  <a href="https://github.com/umarlhepk/Fortinet-Network-Security-Specialization">
+    <img src="https://img.shields.io/badge/-Fortinet%20Network%20Security%20Specialization-EE3124?style=for-the-badge&logo=Fortinet&logoColor=white" />
+  </a>
+  <a href="https://github.com/umarlhepk/Fortinet-Network-Security-Support-Engineer">
+    <img src="https://img.shields.io/badge/-Fortinet%20Network%20Security%20Support%20Engineer-4D4D4D?style=for-the-badge&logo=Fortinet&logoColor=white" />
+  </a>
+  <a href="https://github.com/umarlhepk/Splunk-Search-Expert-Specialization">
+    <img src="https://img.shields.io/badge/-Splunk%20Search%20Expert%20Specialization-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
+  </a>
   <img src="https://img.shields.io/badge/-OneTrust%20GRC%20Professional-brightgreen?style=for-the-badge&logo=OneTrust&logoColor=white" />
   <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Specialization-blue?style=for-the-badge&logo=Google&logoColor=white" />
   <img src="https://img.shields.io/badge/-Google%20IT%20Support%20Specialization-blue?style=for-the-badge&logo=Google&logoColor=white" />

@@ -14,6 +14,8 @@ Building a strong IT foundation since 2014, I've excelled in various IT roles th
 
 ## Tools
 
+[![My Skills](https://skillicons.dev/icons?i=apple,linux,ubuntu,windows,jenkins,githubactions,github,docker,kubernetes,maven, ansible,terraform,grafana,prometheus,azure,gcp,openshift,redhat,bash,powershell,py,vscode,discord)](https://skillicons.dev)
+
 
 ## Certifications
 <div>

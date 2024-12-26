@@ -1,6 +1,8 @@
 # Hello, I'm Muhammad Umar
 <a href="https://www.linkedin.com/in/umar-lhepk/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+A GenAI, DevOps, Data Science, and Machine Learning enthusiast. 
+
 Since 2014, I've built a solid IT foundation, excelling in various roles with my technical expertise. Now, I'm targeting roles in DevOps, DevSecOps, or MLOps to leverage my skills in optimizing and securing development processes.
 
 ## Projects
